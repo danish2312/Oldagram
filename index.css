@@ -1,0 +1,79 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+   
+
+.title-img{
+    width: 100px;
+}
+
+.user-img{
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 225px;
+}
+
+.container{
+    width: 375px;
+    margin:0 auto;
+}
+
+header{
+    border-bottom: 1px solid #cccccc;
+    
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.profile{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.side-text {
+    font-size: small;
+}
+
+p{
+    margin: 0px;
+}
+
+.profile-name {
+    font-size: medium;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.post-img{
+    width: 375px;
+}
+
+.icons{
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.likes{
+    margin: 5px 0 5px 10px ;
+    font-weight: 900;
+}
+
+.comment{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.bolded{
+    font-weight: 900;
+}
